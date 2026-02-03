@@ -124,7 +124,7 @@
     "formidable": "^2.1.2",
     "fs-extra": "^10.1.0",
     "get-stream": "^3.0.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "handlebars": "^4.7.8",
     "husky": "^8.0.3",
     "istanbul-instrumenter-loader": "^3.0.1",
